@@ -1,0 +1,25 @@
+{
+  "name": "dsc-wrapper",
+  "version": "1.0.0",
+  "description": "A lightweight Discord.js wrapper for slash commands, embeds, components, and webhooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "slash-commands",
+    "wrapper",
+    "embeds",
+    "components",
+    "webhooks"
+  ],
+  "author": "Yeezy",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "dsc-wrapper": "^1.0.0"
+  }
+}
